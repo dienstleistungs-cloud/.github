@@ -15,8 +15,3 @@ and the ongoing operation of digital services.
 
 Our priorities are dependable operation, maintainability, and long-term value —
 from the initial setup through the service lifecycle.
-
-### On GitHub
-
-Explore our [public repositories](https://github.com/orgs/dienstleistungs-cloud/repositories)
-for code and resources we share.
