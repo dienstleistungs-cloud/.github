@@ -32,10 +32,7 @@ These values come from the supplied SVG files. Do not introduce lime.
 
 ## Profile usage
 
-The profile uses `favicons/favicon.svg` at 64 × 64 CSS pixels. Its opaque
-graphite background preserves the same teal-on-graphite contrast in GitHub's
-light and dark themes. The brand name, slogan, and body are live text and inherit
-GitHub's theme colors. No text is baked into an image.
-
-The profile image uses an absolute raw GitHub URL pointing to this repository's
-default branch (`HEAD`), so it also resolves from the organization overview.
+The organization profile uses themed artwork in `../profile/`. The header
+embeds the original `logos/logo.svg` geometry unchanged; the approved source
+logos and favicons remain unchanged. See `../profile/README.md` for layout,
+accessibility and update details.
